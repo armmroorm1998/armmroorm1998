@@ -11,7 +11,7 @@
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,html,css,vue,nuxt,nestjs,laravel,docker,mysql,discord,github,idea,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,html,css,vue,nuxt,nestjs,flutter,laravel,docker,mysql,discord,github,idea,vscode)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=armmroorm1998&show_icons=true&theme=radical)
 
