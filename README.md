@@ -9,9 +9,21 @@
 **Welcome to my page!** <br>
 **I'm Arram**, Fullstack developer from Bangkok, Thailand, currently living in  Bangkok, Thailand.
 
-### Languages and Tools:
+### Currently working with:
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,html,css,vue,nuxt,nestjs,flutter,laravel,docker,mysql,discord,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,vue,nuxt,nestjs,html,css)]()
+
+### Tools working:
+
+[![My Skills](https://skillicons.dev/icons?i=docker,mysql,discord,github,vscode)]()
+
+### Learning:
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,react)]()
+
+### Previously worked with:
+
+[![My Skills](https://skillicons.dev/icons?i=laravel,java)]()
 
 ```ts
 class About extends Me { 
@@ -21,7 +33,7 @@ class About extends Me {
     "Database" : { "Firebase", "MySQL" },
     "Editors" : { "Vscode", "WebStorm", "DataGrip" },
     "Platforms" : { "OS", "Windows" },
-    "OtherTools" : { "Git", "Sourectree", "Photoshop", "Illustrator", "Premiere Pro", "Lightroom" }
+    "OtherTools" : { "Git", "Sourectree", "Docker", "Photoshop", "Illustrator", "Premiere Pro", "Lightroom" }
   };
 }
 ```
