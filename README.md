@@ -11,29 +11,29 @@
 
 ### Currently working with:
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,vue,nuxt,nestjs,html,css)]()
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,vue,nuxt,react,nextjs,nodejs,nestjs,html,css)]()
 
 ### Tools working:
 
-[![My Skills](https://skillicons.dev/icons?i=docker,mysql,discord,github,vscode)]()
+[![My Skills](https://skillicons.dev/icons?i=docker,mysql,postgres,github,vscode,jenkins)]()
 
 ### Learning:
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,react)]()
+[![My Skills](https://skillicons.dev/icons?i=flutter)]()
 
 ### Previously worked with:
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,java)]()
+[![My Skills](https://skillicons.dev/icons?i=java)]()
 
 ```ts
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "Javascript", "Typescript", "VueJS", "NuxtJS", "NestJS", "Flutter", "Laravel" },
+    "ProgramingLanguages" : { "Javascript", "Typescript", "VueJS", "NuxtJS", "React", "React", "NextJS", "NestJS", "SQL" },
     "OtherLanguages" : { "HTML", "CSS" },
-    "Database" : { "Firebase", "MySQL" },
-    "Editors" : { "Vscode", "WebStorm", "DataGrip" },
-    "Platforms" : { "OS", "Windows" },
-    "OtherTools" : { "Git", "Sourectree", "Docker", "Photoshop", "Illustrator", "Premiere Pro", "Lightroom" }
+    "Database" : { "Firebase", "MySQL", "Jenkins" },
+    "Editors" : { "VScode", "WebStorm", "DataGrip" },
+    "Platforms" : { "OS" },
+    "OtherTools" : { "Git", "Sourectree", "Docker", DBeaver }
   };
 }
 ```
